@@ -1,0 +1,501 @@
+age,gender,diagnosis,length_of_stay,num_previous_admissions,readmitted
+71,Female,Heart Failure,10,2,No
+34,Female,Cancer,3,2,No
+80,Female,Diabetes,18,4,No
+40,Female,COPD,18,4,No
+43,Female,Diabetes,17,2,Yes
+22,Female,Diabetes,3,4,No
+41,Female,Diabetes,3,3,No
+72,Male,Pneumonia,6,0,No
+21,Male,Pneumonia,13,3,Yes
+49,Male,Diabetes,15,2,Yes
+57,Male,COPD,9,2,No
+21,Male,Cancer,4,3,Yes
+83,Male,Cancer,14,4,Yes
+79,Male,Heart Failure,5,4,Yes
+40,Female,COPD,2,2,Yes
+52,Female,Pneumonia,11,1,Yes
+77,Male,Diabetes,9,4,No
+41,Male,Heart Failure,3,3,No
+68,Female,Cancer,9,4,No
+78,Male,Pneumonia,3,3,No
+61,Male,Pneumonia,2,2,No
+79,Female,Diabetes,12,4,Yes
+34,Male,Cancer,10,3,Yes
+81,Female,COPD,9,2,No
+81,Male,Pneumonia,15,1,Yes
+66,Female,Diabetes,8,3,No
+81,Female,COPD,5,1,No
+70,Female,Cancer,11,1,No
+74,Male,Pneumonia,2,0,Yes
+83,Female,COPD,15,4,No
+22,Male,COPD,6,3,No
+70,Male,COPD,8,1,Yes
+26,Male,Pneumonia,5,0,No
+40,Male,Pneumonia,16,2,No
+58,Female,Heart Failure,18,3,No
+37,Female,Cancer,6,1,Yes
+23,Male,Diabetes,5,4,No
+79,Male,COPD,16,0,No
+33,Female,Heart Failure,13,1,No
+28,Male,Diabetes,5,4,Yes
+72,Female,Heart Failure,13,1,No
+21,Male,Pneumonia,17,3,Yes
+79,Male,COPD,18,3,No
+63,Female,Diabetes,8,3,Yes
+27,Male,Diabetes,13,0,No
+66,Female,Diabetes,19,3,No
+54,Male,Diabetes,3,4,No
+55,Male,Diabetes,8,1,Yes
+69,Male,Heart Failure,2,2,Yes
+23,Female,COPD,8,4,No
+21,Male,Pneumonia,13,4,No
+25,Male,Pneumonia,13,3,Yes
+73,Male,Pneumonia,1,0,No
+23,Male,Pneumonia,6,1,No
+73,Female,Heart Failure,19,0,No
+82,Female,Cancer,16,1,No
+37,Male,COPD,8,1,No
+63,Female,Diabetes,1,0,Yes
+53,Male,Cancer,16,4,No
+81,Male,Pneumonia,9,1,No
+33,Male,Cancer,13,0,Yes
+67,Female,COPD,11,1,No
+34,Female,Diabetes,13,2,No
+81,Female,Diabetes,10,4,No
+59,Female,COPD,4,3,No
+72,Female,COPD,6,1,No
+43,Female,Pneumonia,7,2,No
+45,Female,Diabetes,5,3,Yes
+79,Female,Cancer,11,3,No
+60,Female,Heart Failure,13,1,Yes
+48,Male,Heart Failure,19,0,No
+34,Female,COPD,10,1,No
+64,Female,Pneumonia,10,2,No
+84,Female,Heart Failure,11,3,No
+28,Female,Diabetes,7,1,No
+20,Female,COPD,18,0,No
+27,Female,Cancer,4,1,No
+82,Female,COPD,2,4,Yes
+30,Female,Cancer,14,0,No
+27,Female,COPD,13,2,No
+54,Female,COPD,12,3,No
+54,Female,COPD,7,1,Yes
+52,Male,Cancer,2,0,Yes
+24,Male,Cancer,13,4,Yes
+60,Female,COPD,14,0,Yes
+47,Female,Heart Failure,17,4,No
+26,Male,Pneumonia,9,2,No
+31,Female,Pneumonia,17,3,No
+53,Male,Pneumonia,8,2,Yes
+52,Male,Cancer,2,1,Yes
+67,Male,Cancer,13,0,Yes
+42,Male,Heart Failure,3,4,Yes
+81,Male,Pneumonia,16,4,Yes
+56,Female,Pneumonia,6,0,Yes
+63,Male,COPD,19,0,No
+54,Female,Cancer,7,1,No
+84,Female,Pneumonia,10,2,No
+66,Male,Heart Failure,9,4,No
+22,Male,Heart Failure,2,1,No
+20,Female,Pneumonia,15,2,Yes
+24,Male,Cancer,5,1,Yes
+33,Male,Heart Failure,4,4,No
+46,Female,COPD,4,0,Yes
+28,Female,Heart Failure,18,0,No
+34,Male,Diabetes,4,2,No
+61,Female,Diabetes,17,3,No
+70,Male,Cancer,12,2,No
+82,Male,Pneumonia,17,3,No
+71,Male,Cancer,10,1,Yes
+23,Female,Cancer,1,1,Yes
+42,Female,Cancer,18,4,No
+34,Female,Cancer,18,3,No
+62,Female,COPD,14,4,Yes
+48,Female,COPD,15,0,No
+55,Male,Heart Failure,12,3,No
+32,Male,Diabetes,4,2,No
+51,Male,Cancer,3,0,No
+78,Male,Heart Failure,12,0,No
+47,Female,Diabetes,7,2,No
+85,Male,Pneumonia,11,0,No
+61,Female,COPD,1,3,Yes
+64,Male,Diabetes,6,4,No
+81,Female,Pneumonia,15,0,Yes
+76,Female,Diabetes,15,3,No
+25,Male,COPD,19,1,No
+47,Male,COPD,11,3,No
+47,Male,Heart Failure,2,4,No
+63,Male,Cancer,14,3,Yes
+49,Female,Diabetes,2,2,Yes
+81,Male,Diabetes,4,4,No
+81,Male,Pneumonia,17,1,No
+20,Female,COPD,3,2,Yes
+46,Male,Diabetes,13,3,No
+81,Male,COPD,9,4,No
+22,Male,Diabetes,7,1,No
+89,Male,Heart Failure,15,2,Yes
+46,Male,Cancer,11,1,No
+28,Female,Diabetes,2,3,No
+81,Male,COPD,15,1,No
+56,Male,Heart Failure,14,0,No
+70,Male,Diabetes,11,2,No
+63,Male,Pneumonia,3,1,Yes
+43,Male,Cancer,17,3,No
+78,Female,Diabetes,12,3,No
+51,Male,Heart Failure,15,1,Yes
+71,Female,Pneumonia,16,3,No
+81,Female,Heart Failure,5,4,Yes
+77,Male,Heart Failure,6,4,Yes
+71,Male,Pneumonia,19,4,No
+31,Male,Heart Failure,5,0,No
+58,Male,Pneumonia,3,1,No
+21,Female,Diabetes,1,0,Yes
+22,Male,Pneumonia,6,3,No
+75,Male,Pneumonia,15,0,Yes
+78,Male,Cancer,2,3,No
+21,Male,Pneumonia,3,3,No
+21,Male,Pneumonia,17,2,No
+73,Male,Diabetes,12,4,No
+20,Female,Cancer,18,3,No
+38,Female,COPD,15,2,No
+21,Male,Diabetes,12,4,No
+72,Male,Diabetes,16,3,No
+63,Male,COPD,8,3,No
+51,Female,Pneumonia,14,0,Yes
+89,Male,Heart Failure,17,0,Yes
+51,Female,Cancer,8,4,No
+87,Male,Heart Failure,15,3,Yes
+74,Male,COPD,14,1,Yes
+75,Male,Diabetes,18,0,No
+36,Male,Diabetes,7,4,No
+57,Female,Cancer,3,3,No
+43,Female,Diabetes,12,3,No
+88,Male,Diabetes,3,1,No
+89,Male,Cancer,14,4,Yes
+30,Female,Cancer,15,3,No
+35,Female,COPD,14,0,Yes
+78,Female,Diabetes,7,1,No
+89,Female,Diabetes,17,4,No
+22,Male,COPD,12,1,No
+39,Female,Pneumonia,4,0,No
+78,Male,Pneumonia,9,4,No
+55,Female,Pneumonia,6,1,Yes
+38,Female,COPD,16,2,No
+86,Female,Diabetes,2,0,Yes
+38,Female,COPD,8,0,Yes
+39,Female,COPD,11,0,Yes
+71,Male,Pneumonia,13,2,No
+52,Male,Heart Failure,17,2,No
+59,Female,Diabetes,8,3,Yes
+58,Female,Pneumonia,18,1,No
+20,Male,Heart Failure,18,3,No
+30,Female,Heart Failure,14,1,Yes
+76,Female,Cancer,15,2,No
+69,Male,Diabetes,6,2,No
+42,Female,Heart Failure,11,3,No
+50,Female,Pneumonia,13,4,No
+61,Male,Cancer,1,3,Yes
+26,Male,Diabetes,6,1,No
+35,Male,COPD,9,3,No
+79,Female,Pneumonia,8,0,No
+21,Male,Heart Failure,11,1,Yes
+20,Male,Heart Failure,19,1,No
+67,Male,Pneumonia,9,4,No
+31,Male,Heart Failure,17,2,Yes
+88,Male,Cancer,12,1,No
+56,Male,Diabetes,14,2,No
+51,Female,Cancer,15,3,No
+28,Female,Heart Failure,16,0,No
+38,Male,COPD,1,4,No
+67,Male,Diabetes,10,2,No
+22,Male,Diabetes,8,1,No
+39,Female,Pneumonia,18,2,Yes
+43,Female,Pneumonia,1,1,No
+73,Female,COPD,2,2,No
+52,Female,Diabetes,1,1,No
+43,Female,COPD,1,3,No
+55,Female,Pneumonia,9,1,Yes
+57,Female,Pneumonia,13,1,No
+44,Female,Diabetes,1,0,No
+37,Female,Cancer,13,1,No
+85,Male,Heart Failure,7,0,No
+73,Male,Pneumonia,2,4,No
+54,Male,Pneumonia,6,0,Yes
+80,Male,Cancer,7,3,No
+60,Female,Cancer,14,0,Yes
+52,Female,COPD,18,4,Yes
+87,Male,COPD,15,3,No
+52,Female,Heart Failure,2,2,Yes
+33,Male,Heart Failure,10,2,No
+40,Female,Diabetes,12,0,No
+67,Male,COPD,17,0,No
+39,Female,Pneumonia,8,4,Yes
+27,Female,COPD,11,4,No
+26,Male,Pneumonia,3,1,Yes
+86,Female,Cancer,6,4,No
+36,Male,COPD,9,1,No
+52,Male,Cancer,6,3,No
+67,Male,Heart Failure,9,0,No
+78,Male,Heart Failure,7,3,No
+41,Female,Diabetes,9,4,Yes
+49,Female,COPD,18,3,No
+57,Female,Cancer,12,3,No
+70,Male,Pneumonia,8,3,No
+73,Female,Heart Failure,8,4,Yes
+27,Male,Heart Failure,18,3,Yes
+46,Female,Pneumonia,15,1,Yes
+46,Female,Cancer,7,4,No
+40,Female,Cancer,11,3,No
+49,Male,COPD,16,4,No
+47,Female,COPD,4,2,No
+83,Female,Diabetes,6,1,Yes
+88,Male,Heart Failure,3,3,No
+80,Female,COPD,9,2,No
+67,Male,Cancer,10,2,No
+38,Female,Pneumonia,14,4,No
+23,Male,Cancer,11,2,No
+54,Male,Heart Failure,18,1,No
+83,Female,Cancer,12,1,Yes
+68,Male,Diabetes,12,0,Yes
+36,Male,Heart Failure,13,1,No
+63,Male,Pneumonia,13,2,Yes
+49,Male,Diabetes,19,1,No
+65,Male,Heart Failure,19,4,Yes
+25,Male,Pneumonia,14,0,No
+56,Female,Diabetes,4,2,Yes
+43,Male,Diabetes,13,0,No
+65,Male,Heart Failure,8,2,No
+72,Female,COPD,19,4,Yes
+79,Female,Diabetes,12,0,Yes
+82,Female,Diabetes,18,3,No
+51,Female,Pneumonia,6,2,No
+52,Female,Cancer,18,3,Yes
+86,Female,Heart Failure,19,0,No
+37,Female,Heart Failure,5,3,Yes
+44,Male,COPD,9,3,No
+73,Male,COPD,3,0,No
+77,Female,Heart Failure,10,4,No
+86,Male,COPD,19,3,No
+65,Male,Pneumonia,3,3,Yes
+43,Male,Heart Failure,15,4,No
+51,Female,COPD,1,3,Yes
+66,Female,Heart Failure,7,3,No
+42,Male,Cancer,12,3,No
+85,Female,Diabetes,17,1,No
+46,Male,Heart Failure,5,4,Yes
+21,Male,Diabetes,4,3,Yes
+36,Male,COPD,12,4,No
+52,Male,Diabetes,18,2,No
+28,Female,Heart Failure,17,2,Yes
+62,Female,Cancer,19,3,No
+67,Female,COPD,9,4,Yes
+58,Male,Heart Failure,4,4,No
+61,Female,COPD,2,4,No
+45,Male,Pneumonia,4,1,No
+69,Female,Diabetes,2,2,Yes
+44,Male,Pneumonia,15,4,No
+43,Male,Heart Failure,2,4,Yes
+32,Male,Cancer,4,1,No
+79,Female,COPD,6,1,Yes
+26,Female,Diabetes,7,4,No
+76,Female,COPD,10,0,No
+55,Female,Heart Failure,19,4,No
+64,Male,COPD,19,4,No
+39,Female,Diabetes,12,1,No
+84,Female,Heart Failure,3,1,No
+27,Male,COPD,13,4,No
+35,Male,Cancer,18,4,No
+33,Male,Heart Failure,8,4,No
+34,Female,Heart Failure,15,1,No
+85,Male,Cancer,1,4,No
+51,Male,Pneumonia,3,4,No
+82,Male,Diabetes,8,3,Yes
+70,Female,Pneumonia,4,0,Yes
+44,Male,COPD,16,2,Yes
+77,Female,Cancer,10,0,Yes
+82,Female,Pneumonia,12,3,Yes
+81,Male,Heart Failure,14,2,No
+41,Male,COPD,14,4,Yes
+77,Female,COPD,2,3,No
+77,Male,Pneumonia,5,4,Yes
+68,Male,Pneumonia,5,1,Yes
+71,Female,Cancer,6,3,No
+61,Female,Diabetes,13,1,No
+89,Male,Pneumonia,9,3,Yes
+34,Female,Pneumonia,15,3,No
+73,Male,Heart Failure,14,1,No
+79,Male,COPD,7,2,No
+27,Male,Diabetes,2,0,No
+72,Female,Heart Failure,7,4,No
+79,Male,Cancer,6,3,No
+24,Male,Cancer,17,4,No
+87,Male,Pneumonia,2,1,No
+25,Female,Pneumonia,3,4,Yes
+66,Female,Cancer,5,1,No
+74,Female,Pneumonia,5,4,Yes
+59,Female,Diabetes,1,0,No
+71,Female,Pneumonia,8,0,No
+35,Male,COPD,12,0,No
+32,Female,Pneumonia,4,0,Yes
+49,Female,Heart Failure,13,0,Yes
+38,Female,Diabetes,15,0,No
+36,Male,Heart Failure,11,1,No
+82,Female,Heart Failure,10,3,No
+38,Female,COPD,3,4,Yes
+77,Male,Diabetes,14,0,No
+74,Female,Diabetes,16,1,Yes
+81,Male,Diabetes,10,1,No
+42,Male,Diabetes,10,1,Yes
+28,Male,Diabetes,12,3,No
+31,Male,COPD,9,4,Yes
+20,Male,Pneumonia,1,3,No
+77,Female,Heart Failure,5,2,No
+20,Male,Diabetes,8,1,Yes
+53,Male,Pneumonia,11,2,No
+67,Female,Pneumonia,12,0,Yes
+20,Male,Heart Failure,1,0,Yes
+35,Female,COPD,11,3,No
+80,Female,Cancer,5,4,No
+83,Female,Cancer,15,2,No
+82,Male,Pneumonia,5,4,No
+88,Male,Heart Failure,12,3,No
+41,Male,Cancer,5,0,Yes
+86,Female,Pneumonia,17,4,Yes
+45,Male,COPD,17,4,No
+35,Male,Cancer,12,0,No
+70,Male,Pneumonia,15,2,Yes
+76,Female,Pneumonia,15,0,Yes
+48,Female,Diabetes,6,4,No
+88,Male,COPD,12,2,No
+66,Male,Diabetes,18,2,Yes
+81,Male,Heart Failure,14,0,No
+88,Male,Diabetes,2,4,No
+35,Female,Diabetes,9,3,Yes
+67,Female,Cancer,5,4,Yes
+58,Female,Pneumonia,1,1,No
+52,Female,COPD,3,3,No
+42,Male,Diabetes,6,2,Yes
+29,Male,COPD,5,3,No
+88,Male,Diabetes,5,2,No
+53,Female,Heart Failure,1,2,No
+71,Male,Diabetes,17,3,No
+29,Female,Cancer,19,2,No
+38,Female,Pneumonia,14,2,No
+77,Male,Heart Failure,12,1,No
+20,Male,Diabetes,10,4,No
+88,Male,COPD,18,4,No
+23,Female,Heart Failure,11,1,No
+35,Male,Heart Failure,2,3,Yes
+43,Female,Diabetes,18,0,No
+21,Male,Heart Failure,7,0,No
+51,Female,COPD,15,0,Yes
+43,Female,Heart Failure,11,1,No
+31,Male,COPD,18,1,No
+69,Female,Diabetes,12,2,Yes
+54,Female,Pneumonia,6,0,No
+52,Male,Heart Failure,13,3,Yes
+52,Female,Pneumonia,16,3,Yes
+80,Male,COPD,18,0,No
+70,Female,Heart Failure,10,0,Yes
+62,Male,Cancer,8,0,No
+31,Male,Pneumonia,18,1,No
+86,Female,Heart Failure,1,1,No
+84,Female,Pneumonia,8,1,No
+52,Female,Heart Failure,6,4,Yes
+59,Female,Diabetes,5,3,No
+62,Female,Pneumonia,15,3,Yes
+63,Male,Cancer,15,2,No
+48,Female,Cancer,2,1,No
+32,Male,COPD,1,4,Yes
+31,Male,Heart Failure,11,4,No
+65,Female,Pneumonia,10,3,No
+21,Male,COPD,18,1,No
+54,Male,Pneumonia,18,2,No
+27,Male,Heart Failure,17,1,Yes
+45,Male,Cancer,8,0,No
+53,Female,Diabetes,15,1,Yes
+26,Male,Cancer,8,0,No
+87,Female,COPD,17,0,No
+77,Female,Diabetes,12,2,No
+48,Male,COPD,8,3,No
+55,Female,Heart Failure,14,1,Yes
+40,Female,Diabetes,4,0,No
+55,Female,COPD,1,1,No
+29,Male,Heart Failure,1,3,Yes
+43,Female,Cancer,19,3,No
+83,Female,Heart Failure,16,4,Yes
+68,Female,Pneumonia,14,3,No
+55,Male,Heart Failure,16,2,No
+43,Female,Heart Failure,5,0,No
+42,Male,Pneumonia,9,4,Yes
+81,Male,COPD,2,2,No
+56,Male,COPD,18,1,No
+31,Male,Heart Failure,6,0,No
+74,Male,Pneumonia,9,3,No
+32,Male,Pneumonia,1,0,No
+42,Female,Cancer,9,1,No
+49,Male,COPD,16,4,No
+36,Female,Diabetes,13,4,No
+81,Female,COPD,9,4,No
+32,Male,COPD,13,3,No
+78,Female,Cancer,9,2,No
+38,Female,Diabetes,11,2,No
+68,Female,Cancer,4,0,Yes
+31,Female,Diabetes,2,3,Yes
+80,Male,Heart Failure,6,4,Yes
+38,Female,Diabetes,14,4,Yes
+28,Male,Cancer,4,1,No
+47,Female,COPD,6,1,No
+71,Female,Diabetes,19,4,No
+35,Male,Diabetes,6,4,No
+88,Female,Pneumonia,2,3,No
+31,Female,COPD,18,2,No
+44,Female,Heart Failure,13,1,No
+71,Male,Cancer,9,2,No
+72,Female,Heart Failure,19,3,No
+42,Male,COPD,13,4,Yes
+35,Female,Diabetes,11,2,No
+76,Male,Diabetes,1,4,No
+58,Male,COPD,7,4,No
+72,Female,Diabetes,15,0,Yes
+61,Female,Diabetes,1,2,No
+77,Male,Diabetes,12,2,No
+58,Male,Cancer,7,4,Yes
+33,Female,Cancer,15,3,No
+24,Male,Pneumonia,19,0,No
+54,Female,Heart Failure,1,4,No
+37,Female,COPD,17,1,Yes
+28,Female,COPD,17,1,No
+77,Female,COPD,3,0,No
+36,Male,Pneumonia,12,3,No
+26,Female,Cancer,6,4,Yes
+65,Male,Pneumonia,11,2,No
+32,Female,COPD,3,0,No
+59,Male,Heart Failure,8,3,No
+61,Female,Diabetes,14,2,No
+28,Male,Cancer,14,1,Yes
+69,Male,Cancer,10,1,No
+46,Female,Pneumonia,2,2,Yes
+85,Female,Cancer,14,0,No
+24,Female,COPD,9,1,Yes
+48,Female,COPD,3,4,No
+56,Male,Pneumonia,8,2,No
+57,Female,COPD,16,2,No
+27,Male,Heart Failure,2,1,Yes
+84,Male,Pneumonia,6,0,No
+36,Female,Heart Failure,12,4,Yes
+64,Male,Diabetes,5,0,No
+23,Male,Heart Failure,2,3,No
+55,Male,Diabetes,16,3,No
+89,Male,Diabetes,5,1,No
+50,Female,Heart Failure,15,1,No
+38,Female,Pneumonia,12,1,Yes
+80,Female,COPD,4,3,No
+73,Female,COPD,15,0,No
+58,Male,Diabetes,11,0,No
+38,Male,Diabetes,16,1,Yes
+58,Female,Pneumonia,6,4,No
+86,Female,Cancer,14,0,No
+64,Female,Heart Failure,18,3,No
+32,Male,Diabetes,12,2,No
